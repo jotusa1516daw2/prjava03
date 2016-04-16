@@ -27,7 +27,9 @@ public class Prjava02 {
 					+ "del projecte prjava02");
 			System.out.println("Afegint més codi a la "
 					+ "branca00 del projecte prjava02");
+			//Conflicte solucionat afegint una nova línia des de master
 			System.out.println("Conflicte típic: Codi diferent a una mateixa línia");
+			System.out.println("Afegint codi a la branca01 del projecte");
 		} catch (IOException e) {
 			
 		}
