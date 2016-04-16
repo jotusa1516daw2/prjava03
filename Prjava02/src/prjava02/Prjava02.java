@@ -20,6 +20,8 @@ public class Prjava02 {
 					+ "del projecte prjava02");
 			System.out.println("Afegint més codi a la "
 					+ "branca00 del projecte prjava02");
+			System.out.println("Afegint codi a la "
+					+ "branca01 del projecte");
 		} catch (IOException e) {
 		}
 	}
